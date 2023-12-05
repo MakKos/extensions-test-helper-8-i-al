@@ -1,0 +1,8 @@
+{
+  "name": "Test extension (helper: instructor-all)",
+  "type": "helper",
+  "properties": {
+    "user_type": "instructor",
+    "component": "all"
+  }
+}
